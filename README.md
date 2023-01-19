@@ -1,6 +1,5 @@
-Hello, my name is Kalyb Sanders and I am currently studying at the University of Georgia for Computer Science.
-I am interested in Web Development as well as Database Management. I am currently learning Next.js, Node.js and MongoDB to
-grow my repertoire for web development.
+Hello, I'm Kalyb Sanders.
+I am a web developer. 
 
 Contact Me:
 - email: kalyb.sanders@gmail.com
